@@ -1,0 +1,930 @@
+{
+  "canonical_groups": {
+    "Accounting and taxation": [
+      "0411 - Accounting and taxation",
+      "Accounting and taxation"
+    ],
+    "Agriculture": [
+      "0810 - Agriculture, not further defined",
+      "0819 - Agriculture, not elsewhere classified",
+      "081 - Agriculture",
+      "Agriculture, not further defined",
+      "Agriculture, not elsewhere classified",
+      "Agriculture"
+    ],
+    "Agriculture, forestry, fisheries and veterinary": [
+      "8 - Agriculture, forestry, fisheries and veterinary",
+      "0888 - Inter-disciplinary programmes and qualifications involving agriculture, forestry, fisheries and veterinary",
+      "0800 - Agriculture, forestry, fisheries and veterinary not further defined",
+      "0899 - Agriculture, forestry, fisheries and veterinary not elsewhere classified",
+      "089 - Agriculture, forestry, fisheries and veterinary not elsewhere classified",
+      "Inter-disciplinary programmes and qualifications involving agriculture, forestry, fisheries and veterinary",
+      "Agriculture, forestry, fisheries and veterinary not elsewhere classified",
+      "Agriculture, forestry, fisheries and veterinary"
+    ],
+    "Architecture and construction": [
+      "0730 - Architecture and construction, not further defined",
+      "0739 - Architecture and construction, not elsewhere classified",
+      "073 - Architecture and construction",
+      "Architecture and construction, not further defined",
+      "Architecture and construction, not elsewhere classified",
+      "Architecture and construction"
+    ],
+    "Architecture and town planning": [
+      "0731 - Architecture and town planning",
+      "Architecture and town planning"
+    ],
+    "Arts": [
+      "0219 - Arts, not elsewhere classified",
+      "0210 - Arts, not further defined",
+      "021 - Arts",
+      "Arts, not further defined",
+      "Arts, not elsewhere classified",
+      "Arts"
+    ],
+    "Arts and humanities": [
+      "0288 - Arts and humanities, inter-disciplinary programmes",
+      "0200 - Arts and humanities not further defined",
+      "2 - Arts and humanities",
+      "0299 - Arts and humanities not elsewhere classified",
+      "Arts and humanities, inter-disciplinary programmes",
+      "Arts and humanities"
+    ],
+    "Audio-visual techniques and media production": [
+      "0211 - Audio-visual techniques and media production",
+      "Audio-visual techniques and media production"
+    ],
+    "Biochemistry": [
+      "0512 - Biochemistry",
+      "Biochemistry"
+    ],
+    "Biological and related sciences": [
+      "0519 - Biological and related sciences, not elsewhere classifed",
+      "0510 - Biological and related sciences, not further defined",
+      "051 - Biological and related sciences",
+      "Biological and related sciences, not further defined",
+      "Biological and related sciences, not elsewhere classifed",
+      "Biological and related sciences"
+    ],
+    "Biology": [
+      "0511 - Biology",
+      "Biology"
+    ],
+    "Building and civil engineering": [
+      "0732 - Building and civil engineering",
+      "Building and civil engineering"
+    ],
+    "Business and administration": [
+      "0410 - Business and administration, not further defined",
+      "0419 - Business and administration, not elsewhere classified",
+      "041 - Business and administration",
+      "Business and administration, not further defined",
+      "Business and administration, not elsewhere classified",
+      "Business and administration"
+    ],
+    "Business, administration and law": [
+      "049 - Business, administration and law not elsewhere classified",
+      "0488 - Inter-disciplinary programmes and qualifications involving business, administration and law",
+      "0400 - Business, administration and law not further defined",
+      "4 - Business, administration and law",
+      "0499 - Business, administration and law not elsewhere classified",
+      "Business, administration and law not elsewhere classified",
+      "Inter-disciplinary programmes and qualifications involving business, administration and law",
+      "Business, administration and law"
+    ],
+    "Care of the elderly and of disabled adults": [
+      "0921 - Care of the elderly and of disabled adults",
+      "Care of the elderly and of disabled adults"
+    ],
+    "Chemical engineering and processes": [
+      "0711 - Chemical engineering and processes",
+      "Chemical engineering and processes"
+    ],
+    "Chemistry": [
+      "0531 - Chemistry",
+      "Chemistry"
+    ],
+    "Child care and youth services": [
+      "0922 - Child care and youth services",
+      "Child care and youth services"
+    ],
+    "Community sanitation": [
+      "1021 - Community sanitation",
+      "Community sanitation"
+    ],
+    "Computer use": [
+      "0611 - Computer use",
+      "Computer use"
+    ],
+    "Crop and livestock production": [
+      "0811 - Crop and livestock production",
+      "Crop and livestock production"
+    ],
+    "Database and network design and administration": [
+      "0612 - Database and network design and administration",
+      "Database and network design and administration"
+    ],
+    "Dental studies": [
+      "0911 - Dental studies",
+      "Dental studies"
+    ],
+    "Domestic services": [
+      "1011 - Domestic services",
+      "Domestic services"
+    ],
+    "Earth sciences": [
+      "0532 - Earth sciences",
+      "Earth sciences"
+    ],
+    "Economics": [
+      "0311 - Economics",
+      "Economics"
+    ],
+    "Education": [
+      "0110 - Education, not further defined",
+      "0188 - Inter-disciplinary programmes and qualifications involving education",
+      "011 - Education",
+      "0119 - Education, not elsewhere classified",
+      "1 - Education",
+      "Education, not further defined",
+      "Inter-disciplinary programmes and qualifications involving education",
+      "Education, not elsewhere classified",
+      "Education"
+    ],
+    "Education science": [
+      "0111 - Education science",
+      "Education science"
+    ],
+    "Electricity and energy": [
+      "0713 - Electricity and energy",
+      "Electricity and energy"
+    ],
+    "Electronics and automation": [
+      "0714 - Electronics and automation",
+      "Electronics and automation"
+    ],
+    "Engineering and engineering trades": [
+      "0710 - Engineering and engineering trades, not further defined",
+      "0719 - Engineering and engineering trades, not elsewhere classified",
+      "071 - Engineering and engineering trades",
+      "Engineering and engineering trades, not elsewhere classified",
+      "Engineering and engineering trades, not further defined",
+      "Engineering and engineering trades"
+    ],
+    "Engineering, manufacturing and construction": [
+      "0788 - Inter-disciplinary programmes and qualifications involving engineering, manufacturing and construction",
+      "0700 - Engineering, manufacturing and construction not further defined",
+      "0799 - Engineering, manufacturing and construction not elsewhere classified",
+      "7 - Engineering, manufacturing and construction",
+      "079 - Engineering, manufacturing and construction not elsewhere classified",
+      "Inter-disciplinary programmes and qualifications involving engineering, manufacturing and construction",
+      "Engineering, manufacturing and construction not elsewhere classified",
+      "Engineering, manufacturing and construction"
+    ],
+    "Environment": [
+      "0520 - Environment, not further defined",
+      "0529 - Environment, not elsewhere classified",
+      "052 - Environment",
+      "Environment, not further defined",
+      "Environment, not elsewhere classified",
+      "Environment"
+    ],
+    "Environmental protection technology": [
+      "0712 - Environmental protection technology",
+      "Environmental protection technology"
+    ],
+    "Environmental sciences": [
+      "0521 - Environmental sciences",
+      "Environmental sciences"
+    ],
+    "Fashion, interior and industrial design": [
+      "0212 - Fashion, interior and industrial design",
+      "Fashion, interior and industrial design"
+    ],
+    "Field unknown": [
+      "9999 - Field unknown"
+    ],
+    "Finance, banking and insurance": [
+      "0412 - Finance, banking and insurance",
+      "Finance, banking and insurance"
+    ],
+    "Fine arts": [
+      "0213 - Fine arts",
+      "Fine arts"
+    ],
+    "Fisheries": [
+      "0831 - Fisheries",
+      "0839 - Fisheries, not elsewhere classified",
+      "Fisheries",
+      "Fisheries, not elsewhere classified"
+    ],
+    "Food processing": [
+      "0721 - Food processing",
+      "Food processing"
+    ],
+    "Forestry": [
+      "0821 - Forestry",
+      "0829 - Forestry, not elsewhere classified",
+      "082 - Forestry",
+      "Forestry, not elsewhere classified",
+      "Forestry"
+    ],
+    "Hair and beauty services": [
+      "1012 - Hair and beauty services",
+      "Hair and beauty services"
+    ],
+    "Handicrafts": [
+      "0214 - Handicrafts",
+      "Handicrafts"
+    ],
+    "Health": [
+      "0910 - Health, not further defined",
+      "0919 - Health, not elsewhere classified",
+      "091 - Health",
+      "Health, not further defined",
+      "Health, not elsewhere classified",
+      "Health"
+    ],
+    "Health and welfare": [
+      "0988 - Health and Welfare, inter-disciplinary programmes",
+      "0900 - Health and welfare not further defined",
+      "0999 - Health and welfare not elsewhere classified",
+      "9 - Health and welfare",
+      "Health and Welfare, inter-disciplinary programmes",
+      "Health and welfare"
+    ],
+    "History and archaeology": [
+      "0222 - History and archaeology",
+      "History and archaeology"
+    ],
+    "Horticulture": [
+      "0812 - Horticulture",
+      "Horticulture"
+    ],
+    "Hotel, restaurants and catering": [
+      "1013 - Hotel, restaurants and catering",
+      "Hotel, restaurants and catering"
+    ],
+    "Humanities (except languages)": [
+      "0220 - Humanities (except languages), not further defined",
+      "0229 - Humanities (except languages), not elsewhere classified",
+      "022 - Humanities (except languages)",
+      "Humanities (except languages), not further defined",
+      "Humanities (except languages), not elsewhere classified",
+      "Humanities (except languages)"
+    ],
+    "Hygiene and occupational health services": [
+      "1029 - Hygiene and occupational health services, not elsewhere classified",
+      "1020 - Hygiene and occupational health services, not further defined",
+      "Hygiene and occupational health services, not elsewhere classified",
+      "Hygiene and occupational health services, not further defined",
+      "Hygiene and occupational health services"
+    ],
+    "Information and Communication Technologies": [
+      "0610 - Information and Communication Technologies (ICTs), not further defined",
+      "0688 - Information and Communication Technologies (ICTs), inter-disciplinary programmes",
+      "0619 - Information and Communication Technologies (ICTs), not elsewhere classified",
+      "061 - Information and Communication Technologies (ICTs)",
+      "6 - Information and Communication Technologies (ICTs)",
+      "Information and Communication Technologies (ICTs), not further defined",
+      "Information and Communication Technologies (ICTs), not elsewhere classified",
+      "Information and Communication Technologies (ICTs), inter-disciplinary programmes",
+      "Information and Communication Technologies (ICTs)"
+    ],
+    "Journalism and information": [
+      "0320 - Journalism and information, not further defined",
+      "0329 - Journalism and information, not elsewhere classified",
+      "032 - Journalism and information",
+      "Journalism and information, not further defined",
+      "Journalism and information, not elsewhere classified",
+      "Journalism and information"
+    ],
+    "Journalism and reporting": [
+      "0321 - Journalism and reporting",
+      "Journalism and reporting"
+    ],
+    "Language acquisition": [
+      "0231 - Language acquisition",
+      "Language acquisition"
+    ],
+    "Languages": [
+      "0230 - Languages, not further defined",
+      "0239 - Languages, not elsewhere classified",
+      "023 - Languages",
+      "Languages, not further defined",
+      "Languages, not elsewhere classified",
+      "Languages"
+    ],
+    "Law": [
+      "0421 - Law",
+      "0429 - Law, not elsewhere classified",
+      "042 - Law",
+      "Law",
+      "Law, not elsewhere classified"
+    ],
+    "Library, information and archival studies": [
+      "0322 - Library, information and archival studies",
+      "Library, information and archival studies"
+    ],
+    "Literature and linguistics": [
+      "0232 - Literature and linguistics",
+      "Literature and linguistics"
+    ],
+    "Management and administration": [
+      "0413 - Management and administration",
+      "Management and administration"
+    ],
+    "Manufacturing and processing": [
+      "0720 - Manufacturing and processing, not further defined",
+      "0729 - Manufacturing and processing, not elsewhere classified",
+      "072 - Manufacturing and processing",
+      "Manufacturing and processing, not elsewhere classified",
+      "Manufacturing and processing, not further defined",
+      "Manufacturing and processing"
+    ],
+    "Marketing and advertising": [
+      "0414 - Marketing and advertising",
+      "Marketing and advertising"
+    ],
+    "Materials (glass, paper, plastic and wood)": [
+      "0722 - Materials (glass, paper, plastic and wood)",
+      "Materials (glass, paper, plastic and wood)"
+    ],
+    "Mathematics": [
+      "0541 - Mathematics",
+      "Mathematics"
+    ],
+    "Mathematics and statistics": [
+      "0540 - Mathematics and statistics, not further defined",
+      "0549 - Mathematics and statistics, not elsewhere classified",
+      "054 - Mathematics and statistics",
+      "Mathematics and statistics, not further defined",
+      "Mathematics and statistics, not elsewhere classified",
+      "Mathematics and statistics"
+    ],
+    "Mechanics and metal trades": [
+      "0715 - Mechanics and metal trades",
+      "Mechanics and metal trades"
+    ],
+    "Medical diagnostic and treatment technology": [
+      "0914 - Medical diagnostic and treatment technology",
+      "Medical diagnostic and treatment technology"
+    ],
+    "Medicine": [
+      "0912 - Medicine",
+      "Medicine"
+    ],
+    "Military and defence": [
+      "1031 - Military and defence",
+      "Military and defence"
+    ],
+    "Mining and extraction": [
+      "0724 - Mining and extraction",
+      "Mining and extraction"
+    ],
+    "Motor vehicles, ships and aircraft": [
+      "0716 - Motor vehicles, ships and aircraft",
+      "Motor vehicles, ships and aircraft"
+    ],
+    "Music and performing arts": [
+      "0215 - Music and performing arts",
+      "Music and performing arts"
+    ],
+    "Natural environments and wildlife": [
+      "0522 - Natural environments and wildlife",
+      "Natural environments and wildlife"
+    ],
+    "Natural sciences, mathematics and statistics": [
+      "0588 - Inter-disciplinary programmes and qualifications involving natural sciences, mathematics and statistics",
+      "0500 - Natural sciences, mathematics and statistics not further defined",
+      "5 - Natural sciences, mathematics and statistics",
+      "0599 - Natural sciences, mathematics and statistics not elsewhere classified",
+      "059 - Natural sciences, mathematics and statistics not elsewhere classified",
+      "Natural sciences, mathematics and statistics not elsewhere classified",
+      "Inter-disciplinary programmes and qualifications involving natural sciences, mathematics and statistics",
+      "Natural sciences, mathematics and statistics"
+    ],
+    "Nursing and midwifery": [
+      "0913 - Nursing and midwifery",
+      "Nursing and midwifery"
+    ],
+    "Occupational health and safety": [
+      "1022 - Occupational health and safety",
+      "Occupational health and safety"
+    ],
+    "Personal services": [
+      "1010 - Personal services, not further defined",
+      "1019 - Personal services, not elsewhere classified",
+      "Personal services, not further defined",
+      "Personal services, not elsewhere classified",
+      "Personal services"
+    ],
+    "Pharmacy": [
+      "0916 - Pharmacy",
+      "Pharmacy"
+    ],
+    "Philosophy and ethics": [
+      "0223 - Philosophy and ethics",
+      "Philosophy and ethics"
+    ],
+    "Physical sciences": [
+      "0530 - Physical sciences, not further defined",
+      "0539 - Physical sciences, not elsewhere classified",
+      "053 - Physical sciences",
+      "Physical sciences, not further defined",
+      "Physical sciences, not elsewhere classified",
+      "Physical sciences"
+    ],
+    "Physics": [
+      "0533 - Physics",
+      "Physics"
+    ],
+    "Political sciences and civics": [
+      "0312 - Political sciences and civics",
+      "Political sciences and civics"
+    ],
+    "Protection of persons and property": [
+      "1032 - Protection of persons and property",
+      "Protection of persons and property"
+    ],
+    "Psychology": [
+      "0313 - Psychology",
+      "Psychology"
+    ],
+    "Religion and theology": [
+      "0221 - Religion and theology",
+      "Religion and theology"
+    ],
+    "Secretarial and office work": [
+      "0415 - Secretarial and office work",
+      "Secretarial and office work"
+    ],
+    "Security services": [
+      "1030 - Security services, not further defined",
+      "1039 - Security services, not elsewhere classified",
+      "Security services, not further defined",
+      "Security services, not elsewhere classified",
+      "103 - Security services",
+      "Security services"
+    ],
+    "Services": [
+      "10 - Services",
+      "1088 - Services, inter-disciplinary programmes",
+      "1000 - Services not further defined",
+      "1099 - Services not elsewhere classified",
+      "Services, inter-disciplinary programmes",
+      "Services"
+    ],
+    "Social and behavioural sciences": [
+      "0310 - Social and behavioural sciences, not further defined",
+      "0319 - Social and behavioural sciences, not elsewhere classified",
+      "031 - Social and behavioural sciences",
+      "Social and behavioural sciences, not further defined",
+      "Social and behavioural sciences, not elsewhere classified",
+      "Social and behavioural sciences"
+    ],
+    "Social sciences, journalism and information": [
+      "0388 - Social sciences, journalism and information, inter-disciplinary programmes",
+      "0300 - Social sciences, journalism and information not further defined",
+      "3 - Social sciences, journalism and information",
+      "0399 - Social sciences, journalism and information not elsewhere classified",
+      "Social sciences, journalism and information, inter-disciplinary programmes",
+      "Social sciences, journalism and information"
+    ],
+    "Social work and counselling": [
+      "0923 - Social work and counselling",
+      "Social work and counselling"
+    ],
+    "Sociology and cultural studies": [
+      "0314 - Sociology and cultural studies",
+      "Sociology and cultural studies"
+    ],
+    "Software and applications development and analysis": [
+      "0613 - Software and applications development and analysis",
+      "Software and applications development and analysis"
+    ],
+    "Sports": [
+      "1014 - Sports",
+      "Sports"
+    ],
+    "Statistics": [
+      "0542 - Statistics",
+      "Statistics"
+    ],
+    "Teacher training with subject specialization": [
+      "0114 - Teacher training with subject specialization",
+      "Teacher training with subject specialization"
+    ],
+    "Teacher training without subject specialization": [
+      "0113 - Teacher training without subject specialization",
+      "Teacher training without subject specialization"
+    ],
+    "Textiles (clothes, footwear and leather)": [
+      "0723 - Textiles (clothes, footwear and leather)",
+      "Textiles (clothes, footwear and leather)"
+    ],
+    "Therapy and rehabilitation": [
+      "0915 - Therapy and rehabilitation",
+      "Therapy and rehabilitation"
+    ],
+    "Traditional and complementary medicine and therapy": [
+      "0917 - Traditional and complementary medicine and therapy",
+      "Traditional and complementary medicine and therapy"
+    ],
+    "Training for pre-school teachers": [
+      "0112 - Training for pre-school teachers",
+      "Training for pre-school teachers"
+    ],
+    "Transport services": [
+      "1041 - Transport services",
+      "104 - Transport services",
+      "1049 - Transport services, not elsewhere classified",
+      "Transport services, not elsewhere classified",
+      "Transport services"
+    ],
+    "Travel, tourism and leisure": [
+      "1015 - Travel, tourism and leisure",
+      "Travel, tourism and leisure"
+    ],
+    "Veterinary": [
+      "0841 - Veterinary",
+      "0849 - Veterinary, not elsewhere classified",
+      "084 - Veterinary",
+      "Veterinary",
+      "Veterinary, not elsewhere classified"
+    ],
+    "Welfare": [
+      "0920 - Welfare, not further defined",
+      "0929 - Welfare, not elsewhere classified",
+      "092 - Welfare",
+      "Welfare, not further defined",
+      "Welfare, not elsewhere classified",
+      "Welfare"
+    ],
+    "Wholesale and retail sales": [
+      "0416 - Wholesale and retail sales",
+      "Wholesale and retail sales"
+    ],
+    "Work skills": [
+      "0417 - Work skills",
+      "Work skills"
+    ]
+  },
+  "flat_lookup": {
+    "011 - Education": "Education",
+    "0110 - Education, not further defined": "Education",
+    "0111 - Education science": "Education science",
+    "0112 - Training for pre-school teachers": "Training for pre-school teachers",
+    "0113 - Teacher training without subject specialization": "Teacher training without subject specialization",
+    "0114 - Teacher training with subject specialization": "Teacher training with subject specialization",
+    "0119 - Education, not elsewhere classified": "Education",
+    "0188 - Inter-disciplinary programmes and qualifications involving education": "Education",
+    "0200 - Arts and humanities not further defined": "Arts and humanities",
+    "021 - Arts": "Arts",
+    "0210 - Arts, not further defined": "Arts",
+    "0211 - Audio-visual techniques and media production": "Audio-visual techniques and media production",
+    "0212 - Fashion, interior and industrial design": "Fashion, interior and industrial design",
+    "0213 - Fine arts": "Fine arts",
+    "0214 - Handicrafts": "Handicrafts",
+    "0215 - Music and performing arts": "Music and performing arts",
+    "0219 - Arts, not elsewhere classified": "Arts",
+    "022 - Humanities (except languages)": "Humanities (except languages)",
+    "0220 - Humanities (except languages), not further defined": "Humanities (except languages)",
+    "0221 - Religion and theology": "Religion and theology",
+    "0222 - History and archaeology": "History and archaeology",
+    "0223 - Philosophy and ethics": "Philosophy and ethics",
+    "0229 - Humanities (except languages), not elsewhere classified": "Humanities (except languages)",
+    "023 - Languages": "Languages",
+    "0230 - Languages, not further defined": "Languages",
+    "0231 - Language acquisition": "Language acquisition",
+    "0232 - Literature and linguistics": "Literature and linguistics",
+    "0239 - Languages, not elsewhere classified": "Languages",
+    "0288 - Arts and humanities, inter-disciplinary programmes": "Arts and humanities",
+    "0299 - Arts and humanities not elsewhere classified": "Arts and humanities",
+    "0300 - Social sciences, journalism and information not further defined": "Social sciences, journalism and information",
+    "031 - Social and behavioural sciences": "Social and behavioural sciences",
+    "0310 - Social and behavioural sciences, not further defined": "Social and behavioural sciences",
+    "0311 - Economics": "Economics",
+    "0312 - Political sciences and civics": "Political sciences and civics",
+    "0313 - Psychology": "Psychology",
+    "0314 - Sociology and cultural studies": "Sociology and cultural studies",
+    "0319 - Social and behavioural sciences, not elsewhere classified": "Social and behavioural sciences",
+    "032 - Journalism and information": "Journalism and information",
+    "0320 - Journalism and information, not further defined": "Journalism and information",
+    "0321 - Journalism and reporting": "Journalism and reporting",
+    "0322 - Library, information and archival studies": "Library, information and archival studies",
+    "0329 - Journalism and information, not elsewhere classified": "Journalism and information",
+    "0388 - Social sciences, journalism and information, inter-disciplinary programmes": "Social sciences, journalism and information",
+    "0399 - Social sciences, journalism and information not elsewhere classified": "Social sciences, journalism and information",
+    "0400 - Business, administration and law not further defined": "Business, administration and law",
+    "041 - Business and administration": "Business and administration",
+    "0410 - Business and administration, not further defined": "Business and administration",
+    "0411 - Accounting and taxation": "Accounting and taxation",
+    "0412 - Finance, banking and insurance": "Finance, banking and insurance",
+    "0413 - Management and administration": "Management and administration",
+    "0414 - Marketing and advertising": "Marketing and advertising",
+    "0415 - Secretarial and office work": "Secretarial and office work",
+    "0416 - Wholesale and retail sales": "Wholesale and retail sales",
+    "0417 - Work skills": "Work skills",
+    "0419 - Business and administration, not elsewhere classified": "Business and administration",
+    "042 - Law": "Law",
+    "0421 - Law": "Law",
+    "0429 - Law, not elsewhere classified": "Law",
+    "0488 - Inter-disciplinary programmes and qualifications involving business, administration and law": "Business, administration and law",
+    "049 - Business, administration and law not elsewhere classified": "Business, administration and law",
+    "0499 - Business, administration and law not elsewhere classified": "Business, administration and law",
+    "0500 - Natural sciences, mathematics and statistics not further defined": "Natural sciences, mathematics and statistics",
+    "051 - Biological and related sciences": "Biological and related sciences",
+    "0510 - Biological and related sciences, not further defined": "Biological and related sciences",
+    "0511 - Biology": "Biology",
+    "0512 - Biochemistry": "Biochemistry",
+    "0519 - Biological and related sciences, not elsewhere classifed": "Biological and related sciences",
+    "052 - Environment": "Environment",
+    "0520 - Environment, not further defined": "Environment",
+    "0521 - Environmental sciences": "Environmental sciences",
+    "0522 - Natural environments and wildlife": "Natural environments and wildlife",
+    "0529 - Environment, not elsewhere classified": "Environment",
+    "053 - Physical sciences": "Physical sciences",
+    "0530 - Physical sciences, not further defined": "Physical sciences",
+    "0531 - Chemistry": "Chemistry",
+    "0532 - Earth sciences": "Earth sciences",
+    "0533 - Physics": "Physics",
+    "0539 - Physical sciences, not elsewhere classified": "Physical sciences",
+    "054 - Mathematics and statistics": "Mathematics and statistics",
+    "0540 - Mathematics and statistics, not further defined": "Mathematics and statistics",
+    "0541 - Mathematics": "Mathematics",
+    "0542 - Statistics": "Statistics",
+    "0549 - Mathematics and statistics, not elsewhere classified": "Mathematics and statistics",
+    "0588 - Inter-disciplinary programmes and qualifications involving natural sciences, mathematics and statistics": "Natural sciences, mathematics and statistics",
+    "059 - Natural sciences, mathematics and statistics not elsewhere classified": "Natural sciences, mathematics and statistics",
+    "0599 - Natural sciences, mathematics and statistics not elsewhere classified": "Natural sciences, mathematics and statistics",
+    "061 - Information and Communication Technologies (ICTs)": "Information and Communication Technologies",
+    "0610 - Information and Communication Technologies (ICTs), not further defined": "Information and Communication Technologies",
+    "0611 - Computer use": "Computer use",
+    "0612 - Database and network design and administration": "Database and network design and administration",
+    "0613 - Software and applications development and analysis": "Software and applications development and analysis",
+    "0619 - Information and Communication Technologies (ICTs), not elsewhere classified": "Information and Communication Technologies",
+    "0688 - Information and Communication Technologies (ICTs), inter-disciplinary programmes": "Information and Communication Technologies",
+    "0700 - Engineering, manufacturing and construction not further defined": "Engineering, manufacturing and construction",
+    "071 - Engineering and engineering trades": "Engineering and engineering trades",
+    "0710 - Engineering and engineering trades, not further defined": "Engineering and engineering trades",
+    "0711 - Chemical engineering and processes": "Chemical engineering and processes",
+    "0712 - Environmental protection technology": "Environmental protection technology",
+    "0713 - Electricity and energy": "Electricity and energy",
+    "0714 - Electronics and automation": "Electronics and automation",
+    "0715 - Mechanics and metal trades": "Mechanics and metal trades",
+    "0716 - Motor vehicles, ships and aircraft": "Motor vehicles, ships and aircraft",
+    "0719 - Engineering and engineering trades, not elsewhere classified": "Engineering and engineering trades",
+    "072 - Manufacturing and processing": "Manufacturing and processing",
+    "0720 - Manufacturing and processing, not further defined": "Manufacturing and processing",
+    "0721 - Food processing": "Food processing",
+    "0722 - Materials (glass, paper, plastic and wood)": "Materials (glass, paper, plastic and wood)",
+    "0723 - Textiles (clothes, footwear and leather)": "Textiles (clothes, footwear and leather)",
+    "0724 - Mining and extraction": "Mining and extraction",
+    "0729 - Manufacturing and processing, not elsewhere classified": "Manufacturing and processing",
+    "073 - Architecture and construction": "Architecture and construction",
+    "0730 - Architecture and construction, not further defined": "Architecture and construction",
+    "0731 - Architecture and town planning": "Architecture and town planning",
+    "0732 - Building and civil engineering": "Building and civil engineering",
+    "0739 - Architecture and construction, not elsewhere classified": "Architecture and construction",
+    "0788 - Inter-disciplinary programmes and qualifications involving engineering, manufacturing and construction": "Engineering, manufacturing and construction",
+    "079 - Engineering, manufacturing and construction not elsewhere classified": "Engineering, manufacturing and construction",
+    "0799 - Engineering, manufacturing and construction not elsewhere classified": "Engineering, manufacturing and construction",
+    "0800 - Agriculture, forestry, fisheries and veterinary not further defined": "Agriculture, forestry, fisheries and veterinary",
+    "081 - Agriculture": "Agriculture",
+    "0810 - Agriculture, not further defined": "Agriculture",
+    "0811 - Crop and livestock production": "Crop and livestock production",
+    "0812 - Horticulture": "Horticulture",
+    "0819 - Agriculture, not elsewhere classified": "Agriculture",
+    "082 - Forestry": "Forestry",
+    "0821 - Forestry": "Forestry",
+    "0829 - Forestry, not elsewhere classified": "Forestry",
+    "0831 - Fisheries": "Fisheries",
+    "0839 - Fisheries, not elsewhere classified": "Fisheries",
+    "084 - Veterinary": "Veterinary",
+    "0841 - Veterinary": "Veterinary",
+    "0849 - Veterinary, not elsewhere classified": "Veterinary",
+    "0888 - Inter-disciplinary programmes and qualifications involving agriculture, forestry, fisheries and veterinary": "Agriculture, forestry, fisheries and veterinary",
+    "089 - Agriculture, forestry, fisheries and veterinary not elsewhere classified": "Agriculture, forestry, fisheries and veterinary",
+    "0899 - Agriculture, forestry, fisheries and veterinary not elsewhere classified": "Agriculture, forestry, fisheries and veterinary",
+    "0900 - Health and welfare not further defined": "Health and welfare",
+    "091 - Health": "Health",
+    "0910 - Health, not further defined": "Health",
+    "0911 - Dental studies": "Dental studies",
+    "0912 - Medicine": "Medicine",
+    "0913 - Nursing and midwifery": "Nursing and midwifery",
+    "0914 - Medical diagnostic and treatment technology": "Medical diagnostic and treatment technology",
+    "0915 - Therapy and rehabilitation": "Therapy and rehabilitation",
+    "0916 - Pharmacy": "Pharmacy",
+    "0917 - Traditional and complementary medicine and therapy": "Traditional and complementary medicine and therapy",
+    "0919 - Health, not elsewhere classified": "Health",
+    "092 - Welfare": "Welfare",
+    "0920 - Welfare, not further defined": "Welfare",
+    "0921 - Care of the elderly and of disabled adults": "Care of the elderly and of disabled adults",
+    "0922 - Child care and youth services": "Child care and youth services",
+    "0923 - Social work and counselling": "Social work and counselling",
+    "0929 - Welfare, not elsewhere classified": "Welfare",
+    "0988 - Health and Welfare, inter-disciplinary programmes": "Health and welfare",
+    "0999 - Health and welfare not elsewhere classified": "Health and welfare",
+    "1 - Education": "Education",
+    "10 - Services": "Services",
+    "1000 - Services not further defined": "Services",
+    "1010 - Personal services, not further defined": "Personal services",
+    "1011 - Domestic services": "Domestic services",
+    "1012 - Hair and beauty services": "Hair and beauty services",
+    "1013 - Hotel, restaurants and catering": "Hotel, restaurants and catering",
+    "1014 - Sports": "Sports",
+    "1015 - Travel, tourism and leisure": "Travel, tourism and leisure",
+    "1019 - Personal services, not elsewhere classified": "Personal services",
+    "1020 - Hygiene and occupational health services, not further defined": "Hygiene and occupational health services",
+    "1021 - Community sanitation": "Community sanitation",
+    "1022 - Occupational health and safety": "Occupational health and safety",
+    "1029 - Hygiene and occupational health services, not elsewhere classified": "Hygiene and occupational health services",
+    "103 - Security services": "Security services",
+    "1030 - Security services, not further defined": "Security services",
+    "1031 - Military and defence": "Military and defence",
+    "1032 - Protection of persons and property": "Protection of persons and property",
+    "1039 - Security services, not elsewhere classified": "Security services",
+    "104 - Transport services": "Transport services",
+    "1041 - Transport services": "Transport services",
+    "1049 - Transport services, not elsewhere classified": "Transport services",
+    "1088 - Services, inter-disciplinary programmes": "Services",
+    "1099 - Services not elsewhere classified": "Services",
+    "2 - Arts and humanities": "Arts and humanities",
+    "3 - Social sciences, journalism and information": "Social sciences, journalism and information",
+    "4 - Business, administration and law": "Business, administration and law",
+    "5 - Natural sciences, mathematics and statistics": "Natural sciences, mathematics and statistics",
+    "6 - Information and Communication Technologies (ICTs)": "Information and Communication Technologies",
+    "7 - Engineering, manufacturing and construction": "Engineering, manufacturing and construction",
+    "8 - Agriculture, forestry, fisheries and veterinary": "Agriculture, forestry, fisheries and veterinary",
+    "9 - Health and welfare": "Health and welfare",
+    "9999 - Field unknown": "Field unknown",
+    "Accounting and taxation": "Accounting and taxation",
+    "Agriculture": "Agriculture",
+    "Agriculture, forestry, fisheries and veterinary": "Agriculture, forestry, fisheries and veterinary",
+    "Agriculture, forestry, fisheries and veterinary not elsewhere classified": "Agriculture, forestry, fisheries and veterinary",
+    "Agriculture, not elsewhere classified": "Agriculture",
+    "Agriculture, not further defined": "Agriculture",
+    "Architecture and construction": "Architecture and construction",
+    "Architecture and construction, not elsewhere classified": "Architecture and construction",
+    "Architecture and construction, not further defined": "Architecture and construction",
+    "Architecture and town planning": "Architecture and town planning",
+    "Arts": "Arts",
+    "Arts and humanities": "Arts and humanities",
+    "Arts and humanities, inter-disciplinary programmes": "Arts and humanities",
+    "Arts, not elsewhere classified": "Arts",
+    "Arts, not further defined": "Arts",
+    "Audio-visual techniques and media production": "Audio-visual techniques and media production",
+    "Biochemistry": "Biochemistry",
+    "Biological and related sciences": "Biological and related sciences",
+    "Biological and related sciences, not elsewhere classifed": "Biological and related sciences",
+    "Biological and related sciences, not further defined": "Biological and related sciences",
+    "Biology": "Biology",
+    "Building and civil engineering": "Building and civil engineering",
+    "Business and administration": "Business and administration",
+    "Business and administration, not elsewhere classified": "Business and administration",
+    "Business and administration, not further defined": "Business and administration",
+    "Business, administration and law": "Business, administration and law",
+    "Business, administration and law not elsewhere classified": "Business, administration and law",
+    "Care of the elderly and of disabled adults": "Care of the elderly and of disabled adults",
+    "Chemical engineering and processes": "Chemical engineering and processes",
+    "Chemistry": "Chemistry",
+    "Child care and youth services": "Child care and youth services",
+    "Community sanitation": "Community sanitation",
+    "Computer use": "Computer use",
+    "Crop and livestock production": "Crop and livestock production",
+    "Database and network design and administration": "Database and network design and administration",
+    "Dental studies": "Dental studies",
+    "Domestic services": "Domestic services",
+    "Earth sciences": "Earth sciences",
+    "Economics": "Economics",
+    "Education": "Education",
+    "Education science": "Education science",
+    "Education, not elsewhere classified": "Education",
+    "Education, not further defined": "Education",
+    "Electricity and energy": "Electricity and energy",
+    "Electronics and automation": "Electronics and automation",
+    "Engineering and engineering trades": "Engineering and engineering trades",
+    "Engineering and engineering trades, not elsewhere classified": "Engineering and engineering trades",
+    "Engineering and engineering trades, not further defined": "Engineering and engineering trades",
+    "Engineering, manufacturing and construction": "Engineering, manufacturing and construction",
+    "Engineering, manufacturing and construction not elsewhere classified": "Engineering, manufacturing and construction",
+    "Environment": "Environment",
+    "Environment, not elsewhere classified": "Environment",
+    "Environment, not further defined": "Environment",
+    "Environmental protection technology": "Environmental protection technology",
+    "Environmental sciences": "Environmental sciences",
+    "Fashion, interior and industrial design": "Fashion, interior and industrial design",
+    "Finance, banking and insurance": "Finance, banking and insurance",
+    "Fine arts": "Fine arts",
+    "Fisheries": "Fisheries",
+    "Fisheries, not elsewhere classified": "Fisheries",
+    "Food processing": "Food processing",
+    "Forestry": "Forestry",
+    "Forestry, not elsewhere classified": "Forestry",
+    "Hair and beauty services": "Hair and beauty services",
+    "Handicrafts": "Handicrafts",
+    "Health": "Health",
+    "Health and Welfare, inter-disciplinary programmes": "Health and welfare",
+    "Health and welfare": "Health and welfare",
+    "Health, not elsewhere classified": "Health",
+    "Health, not further defined": "Health",
+    "History and archaeology": "History and archaeology",
+    "Horticulture": "Horticulture",
+    "Hotel, restaurants and catering": "Hotel, restaurants and catering",
+    "Humanities (except languages)": "Humanities (except languages)",
+    "Humanities (except languages), not elsewhere classified": "Humanities (except languages)",
+    "Humanities (except languages), not further defined": "Humanities (except languages)",
+    "Hygiene and occupational health services": "Hygiene and occupational health services",
+    "Hygiene and occupational health services, not elsewhere classified": "Hygiene and occupational health services",
+    "Hygiene and occupational health services, not further defined": "Hygiene and occupational health services",
+    "Information and Communication Technologies (ICTs)": "Information and Communication Technologies",
+    "Information and Communication Technologies (ICTs), inter-disciplinary programmes": "Information and Communication Technologies",
+    "Information and Communication Technologies (ICTs), not elsewhere classified": "Information and Communication Technologies",
+    "Information and Communication Technologies (ICTs), not further defined": "Information and Communication Technologies",
+    "Inter-disciplinary programmes and qualifications involving agriculture, forestry, fisheries and veterinary": "Agriculture, forestry, fisheries and veterinary",
+    "Inter-disciplinary programmes and qualifications involving business, administration and law": "Business, administration and law",
+    "Inter-disciplinary programmes and qualifications involving education": "Education",
+    "Inter-disciplinary programmes and qualifications involving engineering, manufacturing and construction": "Engineering, manufacturing and construction",
+    "Inter-disciplinary programmes and qualifications involving natural sciences, mathematics and statistics": "Natural sciences, mathematics and statistics",
+    "Journalism and information": "Journalism and information",
+    "Journalism and information, not elsewhere classified": "Journalism and information",
+    "Journalism and information, not further defined": "Journalism and information",
+    "Journalism and reporting": "Journalism and reporting",
+    "Language acquisition": "Language acquisition",
+    "Languages": "Languages",
+    "Languages, not elsewhere classified": "Languages",
+    "Languages, not further defined": "Languages",
+    "Law": "Law",
+    "Law, not elsewhere classified": "Law",
+    "Library, information and archival studies": "Library, information and archival studies",
+    "Literature and linguistics": "Literature and linguistics",
+    "Management and administration": "Management and administration",
+    "Manufacturing and processing": "Manufacturing and processing",
+    "Manufacturing and processing, not elsewhere classified": "Manufacturing and processing",
+    "Manufacturing and processing, not further defined": "Manufacturing and processing",
+    "Marketing and advertising": "Marketing and advertising",
+    "Materials (glass, paper, plastic and wood)": "Materials (glass, paper, plastic and wood)",
+    "Mathematics": "Mathematics",
+    "Mathematics and statistics": "Mathematics and statistics",
+    "Mathematics and statistics, not elsewhere classified": "Mathematics and statistics",
+    "Mathematics and statistics, not further defined": "Mathematics and statistics",
+    "Mechanics and metal trades": "Mechanics and metal trades",
+    "Medical diagnostic and treatment technology": "Medical diagnostic and treatment technology",
+    "Medicine": "Medicine",
+    "Military and defence": "Military and defence",
+    "Mining and extraction": "Mining and extraction",
+    "Motor vehicles, ships and aircraft": "Motor vehicles, ships and aircraft",
+    "Music and performing arts": "Music and performing arts",
+    "Natural environments and wildlife": "Natural environments and wildlife",
+    "Natural sciences, mathematics and statistics": "Natural sciences, mathematics and statistics",
+    "Natural sciences, mathematics and statistics not elsewhere classified": "Natural sciences, mathematics and statistics",
+    "Nursing and midwifery": "Nursing and midwifery",
+    "Occupational health and safety": "Occupational health and safety",
+    "Personal services": "Personal services",
+    "Personal services, not elsewhere classified": "Personal services",
+    "Personal services, not further defined": "Personal services",
+    "Pharmacy": "Pharmacy",
+    "Philosophy and ethics": "Philosophy and ethics",
+    "Physical sciences": "Physical sciences",
+    "Physical sciences, not elsewhere classified": "Physical sciences",
+    "Physical sciences, not further defined": "Physical sciences",
+    "Physics": "Physics",
+    "Political sciences and civics": "Political sciences and civics",
+    "Protection of persons and property": "Protection of persons and property",
+    "Psychology": "Psychology",
+    "Religion and theology": "Religion and theology",
+    "Secretarial and office work": "Secretarial and office work",
+    "Security services": "Security services",
+    "Security services, not elsewhere classified": "Security services",
+    "Security services, not further defined": "Security services",
+    "Services": "Services",
+    "Services, inter-disciplinary programmes": "Services",
+    "Social and behavioural sciences": "Social and behavioural sciences",
+    "Social and behavioural sciences, not elsewhere classified": "Social and behavioural sciences",
+    "Social and behavioural sciences, not further defined": "Social and behavioural sciences",
+    "Social sciences, journalism and information": "Social sciences, journalism and information",
+    "Social sciences, journalism and information, inter-disciplinary programmes": "Social sciences, journalism and information",
+    "Social work and counselling": "Social work and counselling",
+    "Sociology and cultural studies": "Sociology and cultural studies",
+    "Software and applications development and analysis": "Software and applications development and analysis",
+    "Sports": "Sports",
+    "Statistics": "Statistics",
+    "Teacher training with subject specialization": "Teacher training with subject specialization",
+    "Teacher training without subject specialization": "Teacher training without subject specialization",
+    "Textiles (clothes, footwear and leather)": "Textiles (clothes, footwear and leather)",
+    "Therapy and rehabilitation": "Therapy and rehabilitation",
+    "Traditional and complementary medicine and therapy": "Traditional and complementary medicine and therapy",
+    "Training for pre-school teachers": "Training for pre-school teachers",
+    "Transport services": "Transport services",
+    "Transport services, not elsewhere classified": "Transport services",
+    "Travel, tourism and leisure": "Travel, tourism and leisure",
+    "Veterinary": "Veterinary",
+    "Veterinary, not elsewhere classified": "Veterinary",
+    "Welfare": "Welfare",
+    "Welfare, not elsewhere classified": "Welfare",
+    "Welfare, not further defined": "Welfare",
+    "Wholesale and retail sales": "Wholesale and retail sales",
+    "Work skills": "Work skills"
+  }
+}
