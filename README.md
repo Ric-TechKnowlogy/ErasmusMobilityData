@@ -18,8 +18,8 @@ Durata: 2 minuti
   - Salute del progetto Erasmus in contesto universitario(Come performa? Va espandendosi? Impatto di Covid-19?)
   - Atenei più partecipativi
   - Genere e istruzione superiore
+Perchè queste domande? Perchè possiamo replicarle su tutti i livelli.
 
-perchè queste domande? Perchè possiamo replicarle su tutti i livelli.
 ---
 
 ## 1. Pulizia e Preparazione dei Dati
