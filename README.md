@@ -11,7 +11,7 @@ Durata: 2 minuti
 - Analisi della partecipazione degli universitari europei al progetto Erasmus+. Qui 20s su Erasmus+, poi dritto ai dati.
 
 - Identificare il dataset di interesse:
-  - Spiegare la fonte del dataset (European Commission [https://erasmus-plus.ec.europa.eu/resources-and-tools/statistics-and-factsheets/statistics/for-researchers])
+  - Spiegare la fonte del dataset (European Commission) [https://erasmus-plus.ec.europa.eu/resources-and-tools/statistics-and-factsheets/statistics/for-researchers]
   - % di studenti rispetto al totale degli usufruitori di Erasmus+. (Pie chart)
 
 - Porre le domande a cui vogliamo trovare risposta:
@@ -54,16 +54,16 @@ Durata : 12 minuti
   - Analisi di alcune feature di interesse per le domande. (annessi plot) e.g Analisi temporale partecipazione al programma (line plot) - > Domanda 1
   - Confronto tra Paesi partecipanti (chloropath map) (dipendentemente da cosa confrotiamo, anche serie storiche con line plot) -> Feature specifica di questo livello
   - Mostrare i principali flussi tra **Paese di origine → Paese di destinazione** (connection map)
-  - Atenei più partecipativi a livello europeo (heatmap, distingue per ogni nazione il più attivo [https://python-graph-gallery.com/heatmap/])-> Domanda 2
-  - Gender e partecipazione lato europeo (multi histogram [https://python-graph-gallery.com/506-histogram-with-small-mutliples/]) -> Domanda 3
+  - Atenei più partecipativi a livello europeo ((heatmap)[https://python-graph-gallery.com/heatmap/], distingue per ogni nazione il più attivo )-> Domanda 2
+  - Gender e partecipazione lato europeo ((multi histogram) [https://python-graph-gallery.com/506-histogram-with-small-mutliples/]) -> Domanda 3
 
 
 ### 2.2 Livello italiano ~ 3 minuti
 
   - Analisi di alcune feature di interesse per le domande. (annessi plot) e.g Analisi temporale partecipazione al programma (line plot) - > Domanda 1
   - Confronto tra Atenei partecipanti (chloropath map) (dipendentemente da cosa confrotiamo, anche serie storiche con line plot) -> Feature specifica di questo livello
-  - Atenei più partecipativi a livello italiano (heatmap, distingue per ogni nazione il più attivo [https://python-graph-gallery.com/heatmap/])-> Domanda 2
-  - Gender e partecipazione lato italiano (multi histogram [https://python-graph-gallery.com/506-histogram-with-small-mutliples/]) -> Domanda 3
+  - Atenei più partecipativi a livello italiano ((heatmap)[https://python-graph-gallery.com/heatmap/], distingue per ogni nazione il più attivo )-> Domanda 2
+  - Gender e partecipazione lato italiano ((multi histogram) [https://python-graph-gallery.com/506-histogram-with-small-mutliples/]) -> Domanda 3
 
 
 ### 2.2 Livello UMIL ~ 2 minuti
