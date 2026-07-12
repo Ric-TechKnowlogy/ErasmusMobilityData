@@ -17,9 +17,9 @@ Durata: 2 minuti
 - Porre le domande a cui vogliamo trovare risposta:
   - Salute del progetto Erasmus in contesto universitario(Come performa? Va espandendosi? Impatto di Covid-19?)
   - Atenei più partecipativi
-  - Genere e istruzione superiore
+  - CdL più partecipativi
 
-Perchè queste domande? Perchè possiamo replicarle su tutti i livelli.
+perchè queste domande? Perchè possiamo replicarle su tutti i livelli.
 ---
 
 ## 1. Pulizia e Preparazione dei Dati
@@ -87,6 +87,5 @@ Durata : 2 minuti
 - Indicare possibili espansioni dell'analisi (coff coff analisi CdL per tutti)
   - Analisi comparativa per corsi, distribuzione nazionale vs UNIMI
   - Analisi comparativa con altri atenei europei
-
 
 ---
